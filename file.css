@@ -1,0 +1,29 @@
+	body{
+		background-color: black;
+		margin: 0px,auto;
+		padding: 0px;
+	}
+	.main_body{
+	
+		   width: 750px;
+        height: 140px; 
+        background: red;
+        border-top-left-radius: 1200px 200%;
+        border-top-right-radius: 1200px 200%;
+        border-bottom-left-radius: 400px 250%;
+        border-bottom-right-radius: 400px 250%;
+        margin-left: 400px;
+        margin-top :50px;
+	}
+	.bonnet{
+		width:715px;
+		border-top-left-radius: 1200px 200%;
+		border-top-right-radius: 1200px 200%;
+		border-bottom-left-radius: 400px 250%;
+		border-bottom-right-radius: 400px 250%;
+		background-color: white;
+		height: 100px;
+		margin: 0px, auto;
+		margin-left: 418px;
+		margin-top: -100px;
+	}
