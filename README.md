@@ -1,2 +1,2 @@
 # Audio-html-css
-It's an html page that plays file in the background at the time of opening the page.
+Audio plays in autplay mode everytime page is refreshed.
